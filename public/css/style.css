@@ -1,0 +1,22 @@
+/* public/css/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1 {
+    color: #0056b3; /* Un azul para los títulos */
+}
+
+.navbar {
+    border-bottom: 3px solid #0056b3; /* Un borde inferior en la barra de navegación */
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    padding: 20px 0;
+    border-top: 1px solid #e9ecef;
+}
